@@ -7,4 +7,8 @@ the following points are what i felt , can be added.
 3.add tkinter interface                                                                      
 4.remove numbers from the articles.
 5. be able to put selective information in the slide. not just the first sentence.
+
+
+# the code is i python
+# i have also attatched a ppt so you can se what it makes, on putting the input as per the jupyter notebook.
                     
