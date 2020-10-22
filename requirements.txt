@@ -1,0 +1,5 @@
+setuptools
+wheel
+beatifulsoup4
+python-pptx
+requests
