@@ -1,4 +1,4 @@
-# AutoPPT
+# AutoPPT-inator
 this projact can ,using web scraping make a ppt on any topic that is entered.
 the code generates a basic ppt using beautiful soup,requests and python-pptx packages.
 
